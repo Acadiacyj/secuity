@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## sql注入和js注入的学习和防范
+平时一直没空写blog，今天项目上处理安全性问题，就写下这篇blog。
 
-You can use the [editor on GitHub](https://github.com/Acadiacyj/secuity/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+sql注入和js是极为常见的安全性问题。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### js注入
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
