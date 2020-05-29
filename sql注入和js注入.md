@@ -7,35 +7,17 @@ sql注入和js是极为常见的安全性问题。
 
 # js注入
 
-## 
+## 出现情况
+在url或输入框中输js脚本
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### url
+在地址框中输入
 ```markdown
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+JavaScrip:alert('1111')
 ```
+即可看到效果
 # sql注入
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+##出现情况
+拼接在sql查询语句后，查出数据库数据
 
